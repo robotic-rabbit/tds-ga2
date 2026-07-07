@@ -1,10 +1,10 @@
 fastapi
 uvicorn
-prometheus-client
 redis
-httpx
-pydantic
 PyJWT
 cryptography
-python-dotenv
 pyyaml
+python-dotenv
+prometheus_client
+httpx
+pydantic
