@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+prometheus-client
+redis
+httpx
+pydantic
+PyJWT
+cryptography
+python-dotenv
+pyyaml
